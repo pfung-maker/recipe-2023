@@ -1,9 +1,5 @@
 20 tbsp cilantro
 2 avocadoes
 1 lime
-<<<<<<< HEAD
 2 tsp salt
-=======
-1/2 tsp salt
->>>>>>> less-salt
 1/2 onion
